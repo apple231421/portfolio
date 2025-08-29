@@ -1,9 +1,7 @@
 # 👨‍💻 김창규 포트폴리오
 
 > **“사용자가 체감하는 가치를 만드는 개발자”**  
-> Java & Spring 기반 백엔드/풀스택 개발자로서, 웹 플랫폼과 챗봇 서비스 개발 경험이 있습니다.  
-
-[📧 Email](mailto:cyh6280@naver.com) · [💻 GitHub](https://github.com/apple321421)
+> Java & Spring 기반 백엔드/풀스택 개발자로서, 웹 플랫폼과 챗봇 서비스 개발 경험이 있습니다.
 
 ---
 
@@ -16,8 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS%20%7C%20S3-black)
-
-> 협업 도구: GitHub, Notion, Jira, Figma
 
 ---
 
