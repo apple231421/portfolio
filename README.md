@@ -20,7 +20,7 @@
 ## 📌 Projects
 
 ### 1) HobbyMe — 취미 공유 플랫폼
-- **링크:** [HobbyMe](https://github.com/dbfjd01/hobbyMe2)  
+- **링크:** [HobbyMe](https://github.com/apple231421/hobbyMe)  
 
 - **팀 규모:** 4인 (백엔드 3, 프론트엔드 1)  
 - **내 역할 (Backend Developer)**
