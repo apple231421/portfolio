@@ -81,7 +81,7 @@
   - 게시판(공지, 뉴스, 보도자료) CRUD 
   - Q&A(문의/답변/상세), 자원봉사 신청/상태 관리
   - Gmail SMTP 이메일 발송, PDF 진단서 생성
-  - OpenAI 챗봇 & Kakao 챗봇 연동
+  - OpenAI 챗봇 연동
 
 - **기술 스택:** Spring Boot, JPA, Thymeleaf, MySQL, OAuth2, OpenAI API, Bootstrap
 
